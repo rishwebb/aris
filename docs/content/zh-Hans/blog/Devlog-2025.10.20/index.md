@@ -34,8 +34,6 @@ Control Island
 
 这个模型很荣幸是找到了 Neuro-sama 官方也合作过的一位画师和非常厉害的建模老师合作改进的，新的动画表情也非常丰富
 
-（小声）也许 sponsor 多了就愿意了（x
-
 <video src="./assets/airi.mp4" alt="airi.mp4" controls playsinline></video>
 
 ## Three.js MMD 支持

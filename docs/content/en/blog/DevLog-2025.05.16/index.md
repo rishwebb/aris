@@ -291,7 +291,6 @@ I would love to mention some of the milestone we reached in the past few weeks:
 - 72+ new fresh group members in Discord server!
 - ReLU character design finished!
 - ReLU character modeling finished!
-- Negotiated with a few companies for sponsorships, and cooperation!
 - 92 tasks finished for [Roadmap v0.5](https://github.com/moeru-ai/airi/issues/113)
   - UI
     - Loading screen and tutorial modules

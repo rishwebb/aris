@@ -36,8 +36,6 @@ Sharp-eyed folks might've noticed—our model got updated! Yes, updated! I absol
 
 This model was honorably improved through collaboration with an artist who's worked with Neuro-sama's official team and a super talented modeling expert—new animated expressions are incredibly rich too
 
-(whispering) Maybe if we get more sponsors, I'll be willing... (x
-
 <video src="./assets/airi.mp4" alt="airi.mp4" controls></video>
 
 ## Three.js MMD Support
